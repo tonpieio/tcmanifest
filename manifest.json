@@ -1,5 +1,5 @@
 {
-  "url": "https://files.tonpie.io/jetton/manifest.json",
+  "url": "https://raw.githubusercontent.com/tonpieio/tcmanifest/60794367c87c009689144b210c9ee1a991da48bf/manifest.json",
   "name": "testapp",
   "iconUrl": "https://files.tonpie.io/jetton/jetton-logo-256.png",
   "termsOfUseUrl": "",
