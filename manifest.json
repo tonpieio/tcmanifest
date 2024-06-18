@@ -2,6 +2,6 @@
   "url": "https://raw.githubusercontent.com/tonpieio/tcmanifest/main/manifest.json",
   "name": "testapp",
   "iconUrl": "https://raw.githubusercontent.com/tonpieio/tcmanifest/main/jetton-logo-256.png",
-  "termsOfUseUrl": "",
-  "privacyPolicyUrl": ""
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
